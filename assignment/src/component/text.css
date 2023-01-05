@@ -1,0 +1,15 @@
+.container{
+height: 200px;
+margin-left: 200px;
+}
+.container{
+    margin: 50px;
+    background-color: rgb(55, 52, 52);
+}
+.text-feild{
+height: 70px;
+width: 220px;
+}
+.btn{
+    background-color: skyblue;
+}
